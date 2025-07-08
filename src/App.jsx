@@ -8,10 +8,9 @@ function App() {
     <>
 
     <h1> Welcome to my website</h1>
-{/* <Index/> */}
+<Index/>
     </>
   )
 }
 
 export default App
-j
